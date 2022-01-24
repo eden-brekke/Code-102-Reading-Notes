@@ -1,6 +1,3 @@
-# reading-notes
-Code 102 - Lab-01b Learning Markdown
-
 # What is a Growth Mindset
 
 To have a **growth mindset**, it means that you are willing to step out of your <em>comfort zone</em>.
