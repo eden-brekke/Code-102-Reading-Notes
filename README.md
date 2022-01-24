@@ -1,6 +1,25 @@
 # reading-notes
 Code 102 - Lab-01b Learning Markdown
 
-I love my cat Pumpkin Pie McSassypants
-Montery Jack is a big sturdy catboi
+# What is a Growth Mindset
 
+To have a **growth mindset**, it means that you are willing to step out of your <em>comfort zone</em>.
+It is the idea that even though you don't know something about a topic, that doesn't mean that you can't learn about the topic. 
+If you go into a topic without any knowledge, even if you end up failing, you can pick yourself back up and learn from your failings and mistakes, and realize that those mistakes were an important part of the learning process. 
+
+## Reminders of How to stay in a growth mindset
+
+1. **Mistakes** are <em>important</em> and <em>essential</em> to the learning process
+2. Give your mind **breaks**, let the information digest, don't forget to <em>ask for help</em>
+3. Stay diligent and **keep trying**, remember that <em>google</em> is a great friend
+
+
+## Who am I?
+
+My name is Eden. 
+I'm a virologist by profession, I'm looking to break into software development, and data science to apply back to my virologist career.
+
+I love my cats, cooking, and playing video games with my friends. 
+
+My [Github Profile] is located at: (https://github.com/eden-brekke)
+My [LinkedIn Profile] is located at: (https://www.linkedin.com/in/eden-brekke-b418a122a/)
