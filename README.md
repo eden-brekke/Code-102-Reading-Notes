@@ -28,5 +28,5 @@ Monterey Jack <em>The Third</em> <br>
 Aswell as loving cooking, and playing video games with my friends. <br>
 ![](https://github.com/eden-brekke/reading-notes/blob/main/bigscarytank.png) <br>
 
-My Github Profile is located at: (https://github.com/eden-brekke) <br>
-My LinkedIn Profile is located at: (https://www.linkedin.com/in/eden-brekke-b418a122a/)
+My Github Profile is located at: [Github](https://github.com/eden-brekke) <br>
+My LinkedIn Profile is located at: [LinkedIn](https://www.linkedin.com/in/eden-brekke-b418a122a/)
