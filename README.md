@@ -21,5 +21,5 @@ I'm a virologist by profession, I'm looking to break into software development, 
 
 I love my cats, cooking, and playing video games with my friends. 
 
-My [Github Profile] is located at: (https://github.com/eden-brekke)
-My [LinkedIn Profile] is located at: (https://www.linkedin.com/in/eden-brekke-b418a122a/)
+My Github Profile is located at: (https://github.com/eden-brekke)
+My LinkedIn Profile is located at: (https://www.linkedin.com/in/eden-brekke-b418a122a/)
