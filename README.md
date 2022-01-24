@@ -20,10 +20,10 @@ My name is Eden.
 I'm a virologist by profession, I'm looking to break into software development, and data science to apply back to my virologist career.
 
 I love my cats: 
-![Pumpkin Pie McSassypants] 
-(https://github.com/eden-brekke/reading-notes/blob/main/237272219_1199336533884232_1302703919507046087_n.jpg) 
-!Monterey Jack <em>The Third</em> 
-(https://github.com/eden-brekke/reading-notes/blob/main/268024169_1358846637886415_6077591389068869970_n.jpg) 
+[![Pumpkin Pie McSassypants] 
+(https://github.com/eden-brekke/reading-notes/blob/main/237272219_1199336533884232_1302703919507046087_n.jpg)]
+[!Monterey Jack <em>The Third</em> 
+(https://github.com/eden-brekke/reading-notes/blob/main/268024169_1358846637886415_6077591389068869970_n.jpg)]
 
 cooking, and playing video games with my friends. 
 
