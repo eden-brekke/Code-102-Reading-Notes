@@ -25,7 +25,8 @@ Pumpkin Pie McSassypants <br>
 Monterey Jack <em>The Third</em> <br>
 ![](https://github.com/eden-brekke/reading-notes/blob/main/268024169_1358846637886415_6077591389068869970_n.jpg) <br>
 
-Aswell as loving cooking, and playing video games with my friends. 
+Aswell as loving cooking, and playing video games with my friends. <br>
+![](https://github.com/eden-brekke/reading-notes/blob/main/bigscarytank.png) <br>
 
 My Github Profile is located at: (https://github.com/eden-brekke)
 My LinkedIn Profile is located at: (https://www.linkedin.com/in/eden-brekke-b418a122a/)
