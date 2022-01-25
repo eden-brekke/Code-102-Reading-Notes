@@ -66,7 +66,7 @@ Followed by my love of playing video games with my friends. <br>
 * ls -a = List the contents of a directory, including hidden files.
 * l = Long listing
 * \ = An escape character, escapes the meaning of the next character
- * Example: putting \ before an * will ignore the function of bolding a character in markdown, instead displaying the * in the text.
+  * Example: putting \ before an * will ignore the function of bolding a character in markdown, instead displaying the * in the text.
 * .. = To back out of a directory path one step
 * . = A reference to your current directory
 * ~ = A shortcut for your home directory
