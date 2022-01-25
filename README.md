@@ -31,10 +31,10 @@ If you go into a topic without any knowledge, even if you end up failing, you ca
 
 1. **Mistakes** are <em>important</em> and <em>essential</em> to the learning process
 2. Give your mind **breaks**, let the information digest, don't forget to <em>ask for help</em>
-3. Stay diligent and **keep trying**, remember that <em>google</em> is a great friend
+3. Stay diligent and **keep trying**, remember that <em>google</em> is a great friend <br>
 
 
-#### About the Author
+### About the Author
 
 My name is Eden(she/her). 
 I'm a virologist by profession, I'm looking to break into software development, and data science to apply back to my goal in advancing medicine and saving the world. <br>
@@ -52,7 +52,7 @@ Aswell as loving cooking, and playing video games with my friends. <br>
 My [Github](https://github.com/eden-brekke) Profile. <br>
 My [LinkedIn](https://www.linkedin.com/in/eden-brekke-b418a122a/) Profile.
 
-##### Cheat Sheet for Commands Learned
+#### Cheat Sheet for Commands Learned
 
 * pwd = Print Working Directory - ie. Where are we currently.
 * ls = List the contents of a directory.
@@ -60,7 +60,7 @@ My [LinkedIn](https://www.linkedin.com/in/eden-brekke-b418a122a/) Profile.
 * file = obtain information about what type of file a file or directory is.
 * ls -a = List the contents of a directory, including hidden files.
 
-##### Tips and Tricks
+#### Tips and Tricks
 * Commands are stored after used. 
   * You can use your up and down arrow keys to navigate commands you've recently used.
 * Everything is a file in Linux(WSL). 
