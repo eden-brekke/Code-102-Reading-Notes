@@ -23,7 +23,7 @@ If you go into a topic without any knowledge, even if you end up failing, you ca
 ## Who am I?
 
 My name is Eden. 
-I'm a virologist by profession, I'm looking to break into software development, and data science to apply back to my virology career.
+I'm a virologist by profession, I'm looking to break into software development, and data science to apply back to my virology career. <br>
 ~~Might be planning world domination, under two cat overlord/lady at a time~~
 
 I love my cats: <br>
@@ -35,5 +35,5 @@ Monterey Jack <em>The Third</em> <br>
 Aswell as loving cooking, and playing video games with my friends. <br>
 ![Frog Lalafell](https://github.com/eden-brekke/reading-notes/blob/main/bigscarytank.png) <br>
 
-My Github Profile is located at: [Github](https://github.com/eden-brekke) <br>
-My LinkedIn Profile is located at: [LinkedIn](https://www.linkedin.com/in/eden-brekke-b418a122a/)
+My [Github](https://github.com/eden-brekke) Profile <br>
+My [LinkedIn](https://www.linkedin.com/in/eden-brekke-b418a122a/) Profile
