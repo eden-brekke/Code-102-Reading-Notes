@@ -24,7 +24,7 @@ If you go into a topic without any knowledge, even if you end up failing, you ca
 
 My name is Eden. 
 I'm a virologist by profession, I'm looking to break into software development, and data science to apply back to my virology career. <br>
-~~Might be planning world domination, under two cat overlord/lady at a time~~
+~~Might be planning world domination, under two cat overlords/ladies at a time. Undetermined~~
 
 I love my cats: <br>
 Pumpkin Pie McSassypants <br>
