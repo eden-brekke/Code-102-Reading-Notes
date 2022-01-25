@@ -33,7 +33,7 @@ Monterey Jack <em>The Third</em> <br>
 ![Jack](https://github.com/eden-brekke/reading-notes/blob/5b5397784a25b1bfcb9b2dbbfe53813094d2c2c4/268024169_1358846637886415_6077591389068869970_n.jpg) <br>
 
 Aswell as loving cooking, and playing video games with my friends. <br>
-![Frog Lalafell](https://github.com/eden-brekke/reading-notes/blob/main/bigscarytank.png) <br>
+![Frog-Lalafell](https://github.com/eden-brekke/reading-notes/blob/687945e7fbf3ac2d7503b8a378d021ddc91ae277/bigscarytank.png) <br>
 
 My [Github](https://github.com/eden-brekke) Profile <br>
 My [LinkedIn](https://www.linkedin.com/in/eden-brekke-b418a122a/) Profile
