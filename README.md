@@ -28,12 +28,12 @@ I'm a virologist by profession, I'm looking to break into software development, 
 
 I love my cats: <br>
 Pumpkin Pie McSassypants <br>
-![Pumpkin](https://github.com/eden-brekke/reading-notes/blob/5b5397784a25b1bfcb9b2dbbfe53813094d2c2c4/237272219_1199336533884232_1302703919507046087_n.jpg) <br>
+![Pumpkin](237272219_1199336533884232_1302703919507046087_n.jpg) <br>
 Monterey Jack <em>The Third</em> <br>
-![Jack](https://github.com/eden-brekke/reading-notes/blob/5b5397784a25b1bfcb9b2dbbfe53813094d2c2c4/268024169_1358846637886415_6077591389068869970_n.jpg) <br>
+![Jack](268024169_1358846637886415_6077591389068869970_n.jpg) <br>
 
 Aswell as loving cooking, and playing video games with my friends. <br>
-![Frog-Lalafell](https://github.com/eden-brekke/reading-notes/blob/687945e7fbf3ac2d7503b8a378d021ddc91ae277/bigscarytank.png) <br>
+![Frog-Lalafell](bigscarytank.png) <br>
 
 My [Github](https://github.com/eden-brekke) Profile <br>
 My [LinkedIn](https://www.linkedin.com/in/eden-brekke-b418a122a/) Profile
