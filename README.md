@@ -75,8 +75,8 @@ Followed by my love of playing video games with my friends. <br>
 #### Tips and Tricks
 * Use Tab to auto complete actions 
 * Two Types of Paths 
- * **absolute**
- * **relative**
+  * **absolute**
+  * **relative**
 * Commands are stored after used. 
   * You can use your up and down arrow keys to navigate commands you've recently used.
 * Everything is a file in Linux(WSL). 
