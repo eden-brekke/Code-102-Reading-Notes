@@ -64,8 +64,16 @@ Followed by my love of playing video games with my friends. <br>
 * cd = Change Directories - ie. move to another directory.
 * file = obtain information about what type of file a file or directory is.
 * ls -a = List the contents of a directory, including hidden files.
+* l = Long listing
+* \ = An escape character, escapes the meaning of the next character
+* .. = To back out of a directory path one step
+* . = A reference to your current directory
+* ~ = A shortcut for your home directory
+* ls /etc = Running the List command but telling the terminal to not list your current directory, but the directories contents
 
 #### Tips and Tricks
+* Use Tab to auto complete actions 
+* Two Types of Paths **absolute** and **relative**
 * Commands are stored after used. 
   * You can use your up and down arrow keys to navigate commands you've recently used.
 * Everything is a file in Linux(WSL). 
