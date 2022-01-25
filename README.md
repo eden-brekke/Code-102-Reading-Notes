@@ -66,6 +66,7 @@ Followed by my love of playing video games with my friends. <br>
 * ls -a = List the contents of a directory, including hidden files.
 * l = Long listing
 * \ = An escape character, escapes the meaning of the next character
+ * Example: putting \ before an * will ignore the function of bolding a character in markdown, instead displaying the * in the text.
 * .. = To back out of a directory path one step
 * . = A reference to your current directory
 * ~ = A shortcut for your home directory
@@ -73,7 +74,9 @@ Followed by my love of playing video games with my friends. <br>
 
 #### Tips and Tricks
 * Use Tab to auto complete actions 
-* Two Types of Paths **absolute** and **relative**
+* Two Types of Paths 
+ * **absolute**
+ * **relative**
 * Commands are stored after used. 
   * You can use your up and down arrow keys to navigate commands you've recently used.
 * Everything is a file in Linux(WSL). 
@@ -82,3 +85,7 @@ Followed by my love of playing video games with my friends. <br>
   * Files can have any extension they like or none at all.
 * Linux(WSL) is case sensitive. 
   * This can cause silly issues.
+
+#### Common Acronyms
+* IDE = Integrated development environment
+* DNS = Domain Name System
