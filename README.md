@@ -5,7 +5,7 @@ On your GitHub account you can create repositories, to publish your own free web
 
 ###### Markdown? Why not Markup? 
 
-Markdown is a lightweight form of coding that allows you to make anywhere from basic to more intermediate websites to share the information most important to you. <br>
+Markdown is a lightweight form of coding that allows you to create things such as websites, documents, notes, books, presentations, email messages, and technical documentation, it can range from very basic to advanced. Making it an easy way for you to share the information most important to you. <br>
 Here are great resources out there to provide you with the a wonderful [Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) for Markdown as well as some more advanced, but still [Basic Syntax](https://www.markdownguide.org/basic-syntax/) for Markdown. <br> 
 With these tools, building your website is only a few keystrokes, some clicks, a bit of *google fu* and a mindset away. <br>
 Mindset you ask? There are two common Mindsets when you're in a learning environment. Fixed Mindset, and Growth Mindset. <br>
