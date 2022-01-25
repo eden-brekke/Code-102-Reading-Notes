@@ -1,10 +1,13 @@
-# What is a Growth Mindset
+# Interested in Software Development, but Overwhelmed?
 
-To have a **growth mindset**, it means that you are willing to step out of your <em>comfort zone</em>.
-It is the idea that even though you don't know something about a topic, that doesn't mean that you can't learn about the topic. 
-If you go into a topic without any knowledge, even if you end up failing, you can pick yourself back up and learn from your failings and mistakes, and realize that those mistakes were an important part of the learning process. 
+Programming can be daunting, but with Markdown it becomes a bit more digestable. <br>
+Markdown is a lightweight form of coding that allows you to make anywhere from basic to more intermediate websites to share the information most important to you. <br> 
+Software is a great equalizer and to get started on learning how to develop software, all you need is a GitHub account. On your GitHub account you can create repositories, to publish your own free website all you need is a simple ReadMe file and some determination. <br>
+There are great resources out there to provide you with the a wonderful [Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) for Markdown as well as some more advanced. but still [Basic Syntax](https://www.markdownguide.org/basic-syntax/) for Markdown. <br> 
+With these tools, building your website is only a few keystrokes, some clicks, a bit of *google fu* and a mindset away. <br>
+Mindset you ask? There are two common Mindsets when you're in a learning environment. Fixed Mindset, and Growth Mindset. <br>
 
-|Fixed Mindset|vs.|Growth Mindset|
+|Fixed Mindset| **Versus** |Growth Mindset|
 |:---:|:---:| :---: |
 |To *Fail*| **Tendency** |To *Succeed*|
 |*Daunting*| **Challenges** |*Exciting*|
@@ -13,14 +16,22 @@ If you go into a topic without any knowledge, even if you end up failing, you ca
 |Will *ignore*| **Critisism** |Will *learn* from|
 |Is *discouraging*| **Success of Others** |Is *Inspiring*|
 
-## Reminders of How to stay in a growth mindset
+
+## What does a Growth Mindset mean to me?
+
+To have a **growth mindset**, it means that you are willing to step out of your <em>comfort zone</em>.
+It is the idea that even though you don't know something about a topic, that doesn't mean that you can't learn about the topic. 
+If you go into a topic without any knowledge, even if you end up failing, you can pick yourself back up and learn from your failings and mistakes, and realize that those mistakes were an important part of the learning process. 
+
+
+### Reminders of How to stay in a growth mindset
 
 1. **Mistakes** are <em>important</em> and <em>essential</em> to the learning process
 2. Give your mind **breaks**, let the information digest, don't forget to <em>ask for help</em>
 3. Stay diligent and **keep trying**, remember that <em>google</em> is a great friend
 
 
-### About the Author
+#### About the Author
 
 My name is Eden(she/her). 
 I'm a virologist by profession, I'm looking to break into software development, and data science to apply back to my goal in advancing medicine and saving the world. <br>
@@ -38,7 +49,7 @@ Aswell as loving cooking, and playing video games with my friends. <br>
 My [Github](https://github.com/eden-brekke) Profile. <br>
 My [LinkedIn](https://www.linkedin.com/in/eden-brekke-b418a122a/) Profile.
 
-#### Cheat Sheet for Commands Learned
+##### Cheat Sheet for Commands Learned
 
 * pwd = Print Working Directory - ie. Where are we currently.
 * ls = List the contents of a directory.
@@ -46,7 +57,7 @@ My [LinkedIn](https://www.linkedin.com/in/eden-brekke-b418a122a/) Profile.
 * file = obtain information about what type of file a file or directory is.
 * ls -a = List the contents of a directory, including hidden files.
 
-#### Tips and Tricks
+##### Tips and Tricks
 * Commands are stored after used. 
   * You can use your up and down arrow keys to navigate commands you've recently used.
 * Everything is a file in Linux(WSL). 
