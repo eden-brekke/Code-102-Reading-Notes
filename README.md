@@ -7,11 +7,11 @@ If you go into a topic without any knowledge, even if you end up failing, you ca
 |Fixed Mindset|vs.|Growth Mindset|
 |:---:|:---:| :---: |
 | Tendency to Fail||Tendency to Succeed|
-|Daunting|<-Challenges->|Exciting|
-|Waning Focus|<-Obstacles->|Interesting Challenge|
-|Pointless|<-Effort->|No Pain, No Gain|
-|Will ignore| <-Critisism->|Will learn from|
-|Is discouraging|<-Success of Others->|Is Inspiring|
+|Daunting|< Challenges >|Exciting|
+|Waning Focus|< Obstacles >|Interesting Challenge|
+|Pointless|< Effort >|No Pain, No Gain|
+|Will ignore| < Critisism >|Will learn from|
+|Is discouraging|< Success of Others >|Is Inspiring|
 
 ## Reminders of How to stay in a growth mindset
 
@@ -23,7 +23,8 @@ If you go into a topic without any knowledge, even if you end up failing, you ca
 ## Who am I?
 
 My name is Eden. 
-I'm a virologist by profession, I'm looking to break into software development, and data science to apply back to my virologist career.
+I'm a virologist by profession, I'm looking to break into software development, and data science to apply back to my virology career.
+~~Might be planning world domination, under two cat overlord/lady at a time~~
 
 I love my cats: <br>
 Pumpkin Pie McSassypants <br>
