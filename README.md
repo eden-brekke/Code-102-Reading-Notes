@@ -6,12 +6,12 @@ If you go into a topic without any knowledge, even if you end up failing, you ca
 
 |Fixed Mindset|vs.|Growth Mindset|
 |:---:|:---:| :---: |
-| Tendency to Fail||Tendency to Succeed|
-|Daunting|< Challenges >|Exciting|
-|Waning Focus|< Obstacles >|Interesting Challenge|
-|Pointless|< Effort >|No Pain, No Gain|
-|Will ignore| < Critisism >|Will learn from|
-|Is discouraging|< Success of Others >|Is Inspiring|
+|To Fail| Tendency |To Succeed|
+|Daunting| Challenges |Exciting|
+|Waning Focus| Obstacles |Interesting Challenge|
+|Pointless| Effort |No Pain, No Gain|
+|Will ignore| Critisism |Will learn from|
+|Is discouraging| Success of Others |Is Inspiring|
 
 ## Reminders of How to stay in a growth mindset
 
