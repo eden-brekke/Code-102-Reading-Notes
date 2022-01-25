@@ -1,9 +1,12 @@
 # Interested in Software Development, but Overwhelmed?
 
-Programming can be daunting, but with Markdown it becomes a bit more digestable. <br>
-Markdown is a lightweight form of coding that allows you to make anywhere from basic to more intermediate websites to share the information most important to you. <br> 
-Software is a great equalizer and to get started on learning how to develop software, all you need is a GitHub account. On your GitHub account you can create repositories, to publish your own free website all you need is a simple ReadMe file and some determination. <br>
-There are great resources out there to provide you with the a wonderful [Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) for Markdown as well as some more advanced, but still [Basic Syntax](https://www.markdownguide.org/basic-syntax/) for Markdown. <br> 
+Software is a great equalizer and to get started on learning how to develop software, all you need is a GitHub account! <br>
+On your GitHub account you can create repositories, to publish your own free website using a simple ReadMe file with some Markdown and some determination. <br>
+
+###### Markdown? Why not Markup? 
+
+Markdown is a lightweight form of coding that allows you to make anywhere from basic to more intermediate websites to share the information most important to you. <br>
+Here are great resources out there to provide you with the a wonderful [Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) for Markdown as well as some more advanced, but still [Basic Syntax](https://www.markdownguide.org/basic-syntax/) for Markdown. <br> 
 With these tools, building your website is only a few keystrokes, some clicks, a bit of *google fu* and a mindset away. <br>
 Mindset you ask? There are two common Mindsets when you're in a learning environment. Fixed Mindset, and Growth Mindset. <br>
 
