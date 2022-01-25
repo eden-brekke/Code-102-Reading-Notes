@@ -100,3 +100,6 @@ Followed by my love of playing video games with my friends. <br>
 #### Common Acronyms
 * IDE = Integrated development environment
 * DNS = Domain Name System
+* VCS = Version Control System
+* CVCS = Centralized Version Control System
+* DVCS = Distributed Version Control systems 
