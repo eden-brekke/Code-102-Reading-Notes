@@ -37,3 +37,21 @@ Aswell as loving cooking, and playing video games with my friends. <br>
 
 My [Github](https://github.com/eden-brekke) Profile. <br>
 My [LinkedIn](https://www.linkedin.com/in/eden-brekke-b418a122a/) Profile.
+
+#### Cheat Sheet for Commands Learned
+
+* pwd = Print Working Directory - ie. Where are we currently.
+* ls = List the contents of a directory.
+* cd = Change Directories - ie. move to another directory.
+* file = obtain information about what type of file a file or directory is.
+* ls -a = List the contents of a directory, including hidden files.
+
+#### Tips and Tricks
+* Commands are stored after used. 
+  * You can use your up and down arrow keys to navigate commands you've recently used.
+* Everything is a file in Linux(WSL). 
+  * Including directories.
+* Linux(WSL) is an extensionless system. 
+  * Files can have any extension they like or none at all.
+* Linux(WSL) is case sensitive. 
+  * This can cause silly issues.
