@@ -20,11 +20,11 @@ If you go into a topic without any knowledge, even if you end up failing, you ca
 3. Stay diligent and **keep trying**, remember that <em>google</em> is a great friend
 
 
-## Who am I?
+### About the Author
 
-My name is Eden. 
-I'm a virologist by profession, I'm looking to break into software development, and data science to apply back to my virology career. <br>
-~~Might be planning world domination, under two cat overlords/ladies at a time. Undetermined~~
+My name is Eden(she/her). 
+I'm a virologist by profession, I'm looking to break into software development, and data science to apply back to my goal in advancing medicine and saving the world. <br>
+~~Might also be planning world domination, under two cat overlords/ladies at a time. Contrasting Goals. Under development. Undetermined really. Stay Tuned.~~
 
 I love my cats: <br>
 Pumpkin Pie McSassypants <br>
@@ -35,5 +35,5 @@ Monterey Jack <em>The Third</em> <br>
 Aswell as loving cooking, and playing video games with my friends. <br>
 ![Frog-Lalafell](bigscarytank.png) <br>
 
-My [Github](https://github.com/eden-brekke) Profile <br>
-My [LinkedIn](https://www.linkedin.com/in/eden-brekke-b418a122a/) Profile
+My [Github](https://github.com/eden-brekke) Profile. <br>
+My [LinkedIn](https://www.linkedin.com/in/eden-brekke-b418a122a/) Profile.
