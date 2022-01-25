@@ -71,6 +71,17 @@ Followed by my love of playing video games with my friends. <br>
 * . = A reference to your current directory
 * ~ = A shortcut for your home directory
 * ls /etc = Running the List command but telling the terminal to not list your current directory, but the directories contents
+* mv <source> <destination> = move a thing to a place
+* cp <source> <destination> = copy a thing to a place
+* rm <file> = remove a file
+* mkdir = make a directory
+  * -p = make a parent directory
+  * -v = view an action
+* n = next term
+* touch <filename> = create a file with filename
+* vi (or) vim = inline text editor
+* control + c = copy to clipboard
+  * right click = paste
 
 #### Tips and Tricks
 * Use Tab to auto complete actions 
