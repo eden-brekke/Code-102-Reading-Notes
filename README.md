@@ -33,9 +33,7 @@ If you go into a topic without any knowledge, even if you end up failing, you ca
 2. Give your mind **breaks**, let the information digest, don't forget to <em>ask for help</em>
 3. Stay diligent and **keep trying**, remember that <em>google</em> is a great friend <br>
 
-<!DOCTYPE html>
-<html>
+
 ### Here are some improtant notes from Readings!
-<a href="https://eden-brekke.github.io/reading-notes/CHEATSHEET.md">Reading Notes:Cheat Sheet</a> <br>
-<a href="https://eden-brekke.github.io/reading-notes/ABOUTME.md">About me</a> <br>
- </html>
+[Reading Notes:Cheat Sheet](https://eden-brekke.github.io/reading-notes/CHEATSHEET.md) <br>
+[About Me](https://eden-brekke.github.io/reading-notes/ABOUTME.md)
