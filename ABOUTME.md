@@ -13,5 +13,3 @@ Monterey Jack <em>The Third</em> <br>
  
 Followed by my love of playing video games with my friends. <br>
 ![Frog-Lalafell](bigscarytank.png) <br>
-
-some changes!

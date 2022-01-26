@@ -1,4 +1,7 @@
-#### Cheat Sheet for Commands Learned
+# Here are some improtant notes from Readings!
+<a href="">Home Page</a>
+<a href="">About me</a>
+## Cheat Sheet for Commands Learned
 * pwd = Print Working Directory - ie. Where are we currently.
 * ls = List the contents of a directory.
 * cd = Change Directories - ie. move to another directory.
@@ -22,7 +25,8 @@
 * vi (or) vim = inline text editor
 * control + c = copy to clipboard
   * right click = paste
-#### Tips and Tricks
+
+## Tips and Tricks
 * Use Tab to auto complete actions 
 * Two Types of Paths 
   * **absolute**
@@ -35,11 +39,10 @@
   * Files can have any extension they like or none at all.
 * Linux(WSL) is case sensitive. 
   * This can cause silly issues.
-#### Common Acronyms
+
+## Common Acronyms
 * IDE = Integrated development environment
 * DNS = Domain Name System
 * VCS = Version Control System
 * CVCS = Centralized Version Control System
 * DVCS = Distributed Version Control systems 
-
-Some Changes!
