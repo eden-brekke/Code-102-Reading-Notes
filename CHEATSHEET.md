@@ -22,6 +22,11 @@
 * vi (or) vim = inline text editor
 * control + c = copy to clipboard
   * right click = paste
+* git clone URL = clone items into your IDE
+* git add File = Add a file to your project
+* git commit -m "Comment" = Allows you to commit the changes you've made to your main file with a comment of why the change was made
+* git push URL = pushes your committed changes to your project
+* git status = allows you to see the status of your changes and if you need to commit 
 
 ## Tips and Tricks
 * Use Tab to auto complete actions 
@@ -44,6 +49,11 @@
 * CVCS = Centralized Version Control System
 * DVCS = Distributed Version Control systems 
 
+ 
+## Git
+ Git is a useful tool to allow you to collaborate between multiple developers on a software project. Git allows you to easily keep track of file revisions and makes the risk of data loss less prominant. 
+
+You can easily clone your repositories to your IDE using git from sites such as GitHub, and then you have a mantra of add-commit-push for each time you make a change! Commit allows you to make a commit of why you made a change and lets you look back and why each change was made, If a change breaks your program this process makes it easier to revert back to an old version and continue on with your beautiful working project.
 
 ### Here are some improtant notes from Readings!
 [Home Page](https://eden-brekke.github.io/reading-notes/) <br>
