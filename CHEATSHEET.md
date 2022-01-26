@@ -44,6 +44,7 @@
 * CVCS = Centralized Version Control System
 * DVCS = Distributed Version Control systems 
 
+
 ### Here are some improtant notes from Readings!
-<a href="https://eden-brekke.github.io/reading-notes/">Home Page</a> <br>
-<a href="https://eden-brekke.github.io/reading-notes/ABOUTME.md">About me</a> <br>
+[Home Page](https://eden-brekke.github.io/reading-notes/) <br>
+[About Me](https://eden-brekke.github.io/reading-notes/ABOUTME.md)
