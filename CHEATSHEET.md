@@ -54,6 +54,23 @@
  Git is a useful tool to allow you to collaborate between multiple developers on a software project. Git allows you to easily keep track of file revisions and makes the risk of data loss less prominant. 
 
 You can easily clone your repositories to your IDE using git from sites such as GitHub, and then you have a mantra of add-commit-push for each time you make a change! Commit allows you to make a commit of why you made a change and lets you look back and why each change was made, If a change breaks your program this process makes it easier to revert back to an old version and continue on with your beautiful working project.
+ 
+ ## Wireframes
+ Wireframes are an important step to web development, this allows you to draft a concept and structure for what you want your app or website to look like. Allowing you to get rolling on the project. Changes to the structure are expected as you continue on. <br>
+ 
+ 6 Steps of Wireframes are: <br>
+1. Do Research
+2. Reference Research
+3. Map out user flow
+4. Draft/ Sketch
+5. Add Details and Test
+6. Turn your wireframe into the prototype app
+
+ ## HTML 
+ HTML (Hypertext Markup Language) is the code that denotes the structure of your website. HTML is a series of elements creating the structure. An HTML element has Tags(Opening and closing) as well as attributes and contents within the tags. <br>
+ HTML has both semantic (distinct meanings of the elements) and non-semantics (asethetic, presentation elements) elements available to it. <br>
+ Some examples of semantic HTML elements are: nav, footer, header, article, main, strong <br>
+ Some examples of non-semantic HTML elements are: div, span 
 
 ### Here are some improtant notes from Readings!
 [Home Page](https://eden-brekke.github.io/reading-notes/) <br>
