@@ -34,6 +34,6 @@ If you go into a topic without any knowledge, even if you end up failing, you ca
 3. Stay diligent and **keep trying**, remember that <em>google</em> is a great friend <br>
 
 
-Links to other Pages:
-<a href="https://eden-brekke.github.io/reading-notes/CHEATSHEET.md">Reading Notes:Cheat Sheet</a>
-<a href="https://eden-brekke.github.io/reading-notes/ABOUTME.md">About me</a>
+### Here are some improtant notes from Readings!
+<a href="https://eden-brekke.github.io/reading-notes/CHEATSHEET.md">Reading Notes:Cheat Sheet</a> <br>
+<a href="https://eden-brekke.github.io/reading-notes/ABOUTME.md">About me</a> <br>
