@@ -13,3 +13,7 @@ Monterey Jack <em>The Third</em> <br>
  
 Followed by my love of playing video games with my friends. <br>
 ![Frog-Lalafell](bigscarytank.png) <br>
+
+# Here are some improtant notes from Readings!
+<a href="https://eden-brekke.github.io/reading-notes/">Home Page</a>
+<a href="https://eden-brekke.github.io/reading-notes/CHEATSHEET.md">Cheat Sheet</a>

@@ -1,6 +1,7 @@
 # Here are some improtant notes from Readings!
-<a href="">Home Page</a>
-<a href="">About me</a>
+<a href="https://eden-brekke.github.io/reading-notes/">Home Page</a>
+<a href="https://eden-brekke.github.io/reading-notes/ABOUTME.md">About me</a>
+
 ## Cheat Sheet for Commands Learned
 * pwd = Print Working Directory - ie. Where are we currently.
 * ls = List the contents of a directory.

@@ -32,3 +32,8 @@ If you go into a topic without any knowledge, even if you end up failing, you ca
 1. **Mistakes** are <em>important</em> and <em>essential</em> to the learning process
 2. Give your mind **breaks**, let the information digest, don't forget to <em>ask for help</em>
 3. Stay diligent and **keep trying**, remember that <em>google</em> is a great friend <br>
+
+
+Links to other Pages:
+<a href="https://eden-brekke.github.io/reading-notes/CHEATSHEET.md">Reading Notes:Cheat Sheet</a>
+<a href="https://eden-brekke.github.io/reading-notes/ABOUTME.md">About me</a>
