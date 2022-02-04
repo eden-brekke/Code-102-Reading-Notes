@@ -1,3 +1,19 @@
+## Table of Readings
+  
+<br>
+ 
+|Book| Chapter | Topic |
+|:---:|:---:| :---: |
+|Duckett: HTML and CSS| [Introduction](##-html-and-css-introduction) |About this Book|
+|Duckett: HTML and CSS| [Chapter 1](##-html-and-css-chapter-1) | Structure|
+|Duckett: HTML and CSS| [Chapter 8](##-html-and-css-chapter-8) |Extra Markup|
+|Duckett: HTML and CSS| [Chapter 17](##-html-and-css-chapter-17) |HTML5 Layout|
+|Duckett: HTML and CSS| [Chapter 18](##-html-and-css-chapter-18) |Process & Design|
+|Duckett: JavaScript and jQuery| [Introduction](##-javascript-and-jquery-introduction) |About this book|
+|Duckett: JavaScript and jQuery| [Chapter 1](##-javascript-and-jquery-chapter-1) | The ABC's of Programming|
+  
+<br> 
+ 
 ## HTML and CSS Introduction
  
  <br>
@@ -248,7 +264,7 @@ Coding in a content management system <br>
          
    Block Elements:  <br>
         Some elements will always appear to start ona new line in the browser window.  <br>
-          Examples of elements are <!-- <h1> <p> <ul> or <li>  -->  <br>
+          Examples of elements are  < h1> < p> < ul> or < li>  <br>
   
  <br> 
  
@@ -371,18 +387,18 @@ Coding in a content management system <br>
    
    
 Before HTML5 You would use <div> to id parts of a page such as the header, the navigation bar, and different articles within a page <br>
-      before: <div id = "header">  <br>
-        After: <header> <br>
-      before: <div id = "'nav"> <br>
-        after: <nav> <br>
-      before: <div id = "content"> <br>
-                <div class = "article"> <br>
-                <div class = "article"> <br>
-        after: <div id = "content"> <br>
-                 <article> <br>
-                 <article> <br>
-      before: <div id = "footer"> <br>
-        after: <footer> <br>
+      before: <\ div id = "header">  <br>
+        After: <\ header> <br>
+      before: <\ div id = "'nav"> <br>
+        after: <\ nav> <br>
+      before: <\ div id = "content"> <br>
+                <\ div class = "article"> <br>
+                <\ div class = "article"> <br>
+        after: <\ div id = "content"> <br>
+                 <\ article> <br>
+                 <\ article> <br>
+      before: <\ div id = "footer"> <br>
+        after: <\ footer> <br>
         
         
  Headers and Footers <header> <footer> <br>
@@ -390,26 +406,26 @@ Before HTML5 You would use <div> to id parts of a page such as the header, the n
     There can also be a header or footer for each individual article within a page as well.  <br>
     <section> can also have a header or footer.  <br>
 
-Navigation <nav> <br>
+Navigation <\ nav> <br>
     the nav elementis used to contain the major navigational blocks on the site <br>
     this is usually a unordered list with each list item containing a link within the site <br>
         either to other pages of the site or down to a portion of the same page that is indicated with an id <br>
         
- Articles <article> <br>
+ Articles <\ article> <br>
     Article elements act as contianers for any secction of a page that could stand alone.  <br>
         such as a blog entry, a comment, or a forum post  <br>
      A page can contain multiple articles, each having their own opening and closing article tags <br>
         Article tags can even be nested within each other.  <br>
         
- Asides <aside> <br>
-    An aside element has two purposes depending on whether it is inside or outside an <article> element <br>
-        1. inside an <article> it should contain info related to the artile but not essential to the overall meaning <br>
+ Asides <\ aside> <br>
+    An aside element has two purposes depending on whether it is inside or outside an <\ article> element <br>
+        1. inside an <\ article> it should contain info related to the artile but not essential to the overall meaning <br>
             (So a pullquote or glossary might be an aside) <br>
-        2. outside of an article, an <aside> can act as a container for content that is related to the entire page. <br>
+        2. outside of an article, an <\ aside> can act as a container for content that is related to the entire page. <br>
             (Might be links to other sections of the site, a list of recent posts, a search box, etc) <br>
             
- Sections <section> <br>
-     The <section> element groups related content together. <br>
+ Sections <\ section> <br>
+     The <\ section> element groups related content together. <br>
      Typically each section will have its own heading <br>
         Example: homepage might have several sections <br>
                     - latest news <br>
@@ -418,17 +434,17 @@ Navigation <nav> <br>
          Alternatively: long articles can be split up into separate sections <br>
       Section should not wrap the entire page, that's still best left for <div> <br>
      
-Heading Groups: <hgroup> <br>
-    Purpose for <hgroup> element is to group together a set of one or more <h1-6> elements so that they are treated as one single heading.  <br>
-          Example: hgroup elements could be used to conain both a title inside <h2> and a subtitle within <h3> <br>
-                <hgroup>
-                  <h2>Vegetarian</h2>
-                  <h3>Five week course</h3>
-                </hgroup>
+Heading Groups: <\ hgroup> <br>
+    Purpose for <\ hgroup> element is to group together a set of one or more <h1-6> elements so that they are treated as one single heading.  <br>
+          Example: hgroup elements could be used to conain both a title inside <\ h2> and a subtitle within <\ h3> <br>
+                <\ hgroup>
+                  <\ h2>Vegetarian</h2>
+                  <\ h3>Five week course</h3>
+                <\ /hgroup>
      
      This element has mixed reception. Some say it has little use.  <br>
      
-Figures <figure> <figcaption> <br>
+Figures <\ figure> <\ figcaption> <br>
     figure used to contain content in reference from mainflow of article <br>
     examples: <br>
         - images <br>
@@ -438,11 +454,11 @@ Figures <figure> <figcaption> <br>
         - code samples <br>
         - text that supports main body <br>
         
-       <figure> should contain <figcaption> to provide a text description for contents  <br>
+       <\ figure> should contain <\ figcaption> to provide a text description for contents  <br>
             can be added within an article element  <br>
             
-Sectioning Elements <div> <br>
-    <div> will always remain important for grouping related elements  <br>
+Sectioning Elements <\ div> <br>
+    <\ div> will always remain important for grouping related elements  <br>
   
 Linking around block-level elements <br>
     html5 allows authors to place a link <a> element around a block level element, turning the whole block into a link <br>
