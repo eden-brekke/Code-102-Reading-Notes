@@ -11,7 +11,7 @@
 |Duckett: HTML and CSS| [Chapter 18](##-html-and-css-chapter-18) |Process & Design|
 |Duckett: JavaScript and jQuery| [Introduction](##-javascript-and-jquery-introduction) |About this book|
 |Duckett: JavaScript and jQuery| [Chapter 1](##-javascript-and-jquery-chapter-1) | The ABC's of Programming|
-  
+  All Information referenced from Dockett HTML&CSS/JavaScript and jQuery(2011)
 <br> 
  
 ## HTML and CSS Introduction
